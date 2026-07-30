@@ -1,0 +1,6 @@
+{
+  "name": "DownloadHub AI",
+  "description": "Professional All-in-One Downloader & AI Tools Website featuring advanced image optimization, QR generators, and AI-powered metadata enhancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
