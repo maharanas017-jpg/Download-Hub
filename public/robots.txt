@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://6a7426b4bbbd370008e51db6--downloadhubtools.netlify.app/sitemap.xml
